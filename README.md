@@ -9,7 +9,9 @@
 <p align="center"><em>Simple. Efficient. Organized Travel Management.</em></p>
 
 <p align="center">
-  <img src="bus-reservation-banner.png" alt="Bus Reservation System Banner" width="100%" style="border-radius: 12px;" />
+  <img src="https://img.shields.io/badge/Java-Swing-orange?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Database-SQLite-blue?style=for-the-badge&logo=sqlite" />
+  <img src="https://img.shields.io/badge/IDE-Eclipse-purple?style=for-the-badge&logo=eclipse" />
 </p>
 
 ---
@@ -207,6 +209,26 @@ Database operations are handled through JDBC connectivity with SQLite.
 
 ---
 
+## 🖥️ Application Preview
+
+The Bus Reservation System provides a user-friendly graphical interface built using Java Swing.
+
+The main interface allows users to choose between:
+
+- 👨‍💼 **Admin Login**
+  - Access management dashboard
+  - Manage buses, users, reservations, and waitlists
+
+- 👤 **User Login**
+  - Register passenger accounts
+  - Login securely
+  - Reserve and manage bus seats
+
+<p align="center">
+  <img src="bus-reservation-banner.png" alt="Main Menu Interface" width="85%" style="border-radius: 12px;" />
+</p>
+
+---
 ## 📄 License
 
 This project is developed for educational purposes.
