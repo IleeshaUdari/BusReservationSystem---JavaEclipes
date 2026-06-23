@@ -12,13 +12,6 @@
   <img src="bus-reservation-banner.png" alt="Bus Reservation System Banner" width="100%" style="border-radius: 12px;" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-Swing-orange?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/Database-SQLite-blue?style=for-the-badge&logo=sqlite" />
-  <img src="https://img.shields.io/badge/IDE-Eclipse-purple?style=for-the-badge&logo=eclipse" />
-  <img src="https://img.shields.io/badge/Project-Type-Desktop%20Application-green?style=for-the-badge" />
-</p>
-
 ---
 
 ## 🚀 Overview
